@@ -1,0 +1,26 @@
+
+<!DOCTYPE html>
+	<head>
+		<meta charset="utf-8">
+		<title>Coolest Baby Names</title>
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" href="styles.css">
+	</head>
+	<body>
+		<header>
+			<h1>Official List of Coolest Baby Names</h1>
+						          <p> 1. Alex <br>
+            2. Tyler <br>
+            3. Eric <br>
+            4. Nicole <br>
+            5. Lilia <br>
+        </p>
+		</header>
+		<main>
+
+		</main>
+	    <footer>
+      © New York Times Journal 1987 Under Fair Use Policy
+	    </footer>
+	</body>
+</html>
